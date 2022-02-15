@@ -41,4 +41,4 @@ Your project should end up looking like [this](https://tk-assets.lambdaschool.co
 
 ## Submission Format
 
-- [ ] Submit a link to your repository in Canvas
+- [X] Submit a link to your repository in Canvas
